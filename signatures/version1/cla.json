@@ -1,0 +1,36 @@
+{
+  "signedContributors": [
+    {
+      "name": "AlexandroMtzG",
+      "id": 8606530,
+      "comment_id": 1280003572,
+      "created_at": "2022-10-16T16:29:55Z",
+      "repoId": 474893080,
+      "pullRequestNo": 170
+    },
+    {
+      "name": "rgmvisser",
+      "id": 3968272,
+      "comment_id": 1280646181,
+      "created_at": "2022-10-17T10:33:23Z",
+      "repoId": 511744468,
+      "pullRequestNo": 3
+    },
+    {
+      "name": "typytypytypy",
+      "id": 15159651,
+      "comment_id": 1287386119,
+      "created_at": "2022-10-21T20:05:48Z",
+      "repoId": 511744468,
+      "pullRequestNo": 5
+    },
+    {
+      "name": "allanice001",
+      "id": 700853,
+      "comment_id": 1289550051,
+      "created_at": "2022-10-24T20:11:07Z",
+      "repoId": 511744468,
+      "pullRequestNo": 7
+    }
+  ]
+}
