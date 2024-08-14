@@ -12,14 +12,14 @@ type SiteTags = {
 };
 export function getDefaultSiteTags(): SiteTags {
   return {
-    title: "SaasRock Demo {Enterprise}",
+    title: "Automate Events",
     description:
-      "Build, Market, Manage your SaaS. Launch your MVP with built-in SaaS features: Authentication, Pricing & Subscriptions, Admin & App portals, Entity Builder (CRUD, API, Webhooks, Permissions, Logs...), Blogging, CRM, Email Marketing, Page Block Builder, Notifications, Onboarding, and more.",
-    keywords: "remix,saas,tailwindcss,prisma,react,typescript,boilerplate,saas-kit,saas-boilerplate,stripe,postmark,admin-portal,app-dashboard,multi-tenancy",
-    image: "https://yahooder.sirv.com/saasfrontends/remix/ss/cover.png",
-    thumbnail: "https://yahooder.sirv.com/saasfrontends/remix/thumbnail.png",
-    twitterCreator: "@AlexandroMtzG",
-    twitterSite: "@saas_rock",
+      "Automate.Events revolutionizes event management with automation. From content creation to registrant tracking, event hosting, and live chat, we streamline your event processes, saving you time and boosting engagement. See how we turn 78 hours of work into 1 minute.",
+    keywords: "event marketing, event management software, digital event marketing, grow event attendance, boost event engagement, content creation tools, registrant tracking, event hosting, live chat for events, easy event registration, personalized event emails, marketing automation, growth marketing, SEO optimization, site speed improvement, accessibility tools",
+    image: "https://onlinestore.network/uploads/files/74a6f94fcdb66f8a2c6cc9698f12c542.png",
+    thumbnail: "https://onlinestore.network/uploads/files/c554e047addec5e3bc6500309f772123.png",
+    twitterCreator: "@EventsEcommerce",
+    twitterSite: "@EventsEcommerce",
   };
 }
 

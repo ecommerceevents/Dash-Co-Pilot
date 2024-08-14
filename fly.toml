@@ -1,4 +1,4 @@
-app = "automate-events-dash"
+app = "automate-events-dash-dev"
 
 kill_signal = "SIGINT"
 kill_timeout = 5

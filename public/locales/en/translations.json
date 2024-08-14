@@ -361,11 +361,11 @@
       "affiliates": "Affiliate program"
     },
     "hero": {
-      "headline1": "The Remix SaaS Boilerplate (Enterprise Edition Demo)",
-      "headline2": "Launch production-ready SaaS apps with +25 built-in features, such as: Admin dashboard, App portal, Stripe, Blog, Page Builder, Knowledge Base, Workflows, Analytics, Entity Builder, Email Marketing, Notifications, Onboarding, Feature Flags, Cache and Metrics.",
+      "headline1": "Launch Your Event 5000x Faster with 1-Click Automation",
+      "headline2": "Transform 78 hours of event planning into 1 minute with one-click automation. Instantly receive event content and graphics designed using a framework that has driven over 30,000 registrants. From content creation to hosting and marketing, our automation handles everything, so you can focus on turning registrants into revenue.",
       "headline3": "",
-      "subheadline1": "Build → Market → Manage your SaaS",
-      "hint": "This site uses {{0}} Enterprise Edition",
+      "subheadline1": "1-Click Event Content → No-Form Registrations → Auto-Engage Emails",
+      "hint": "Event Powerhouse that Drove 30K Registrants and 3K Meetings in 18 Months",
       "buy": "Get started",
       "features": "Features",
       "docs": "Documentation",
@@ -420,10 +420,12 @@
       "headline": "Add your own questions and answers to help your users understand your SaaS.",
       "subheadline": "Common questions and answers about SaasRock.",
       "questions": {
-        "q1": "How do I get the code after purchasing?",
+        "q1": "test?",
         "a1": "You will be invited to the saasrock repository on GitHub. If you bought SaasRock Enterprise you will also be invited to the saasrock-enterprise repository.",
         "q2": "Can I get a refund?",
-        "a2": "Due to the nature of software development being a custom service, we do not offer refunds."
+        "a2": "Due to the nature of software development being a custom service, we do not offer refunds.",
+        "q3": "Can I get a refund?",
+        "a3": "Due to the nature of software development being a custom service, we do not offer refunds."
       }
     },
     "footer": {
